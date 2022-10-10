@@ -5,7 +5,7 @@ import Profile from '../Profile/Profile';
 import './Header.css';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 // import { faCoffee, faSunPlantWilt } from '@fortawesome/free-solid-svg-icons'
-// import { faCoffee } from '@fortawesome/free-solid-svg-icons'
+
 import { faEarth } from '@fortawesome/free-solid-svg-icons'
 
 
