@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react';
-import { addToDb, getStoredCard } from '../../FakeDb/FakeDb';
+import { addToDb, } from '../../FakeDb/FakeDb';
 import Main from '../Main/Main';
 import Profile from '../Profile/Profile';
 import './Header.css';
