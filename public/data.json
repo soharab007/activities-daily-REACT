@@ -1,83 +1,83 @@
 [
   {
     "id": "63348cb447ba6b1ab74f4d27",
-    "picture": "https://images.unsplash.com/photo-1585154536515-c766bd2a6cdc?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=608&q=80",
-    "age": 20,
-    "name": "Swimming",
+    "picture": "https://images.unsplash.com/photo-1596247825134-b51b977ec0a1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+    "age": 21,
+    "name": "Walking",
     "gender": "female",
-    "time": 26,
-    "about": "Fugiat ipsum dolor veniam et. Ut commodo laborum excepteur laborum aliquip ad adipisicing aute anim cillum mollit. Aliquip eiusmod sunt veniam pariatur laboris ipsum do aute velit. Duis nostrud exercitation velit Lorem et veniam commodo consectetur officia qui ea ut consequat. Deserunt consequat non minim excepteur cillum exercitation ullamco non anim ea."
+    "time": 45,
+    "about": "Walking is a type of cardiovascular physical activity, which increases your heart rate. This improves blood flow and can lower blood pressure. It helps to boost energy levels by releasing certain hormones like endorphins and delivering oxygen throughout the body."
   },
   {
     "id": "63348cb4f556bece63bbfe9c",
-    "picture": "https://images.unsplash.com/photo-1661678730278-4ad3f22e2b15?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=630&q=80",
-    "age": 25,
-    "name": "reading books",
+    "picture": "https://images.unsplash.com/photo-1603503364272-6e28e046b37a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=388&q=80",
+    "age": 23,
+    "name": "Push-Up",
     "gender": "female",
-    "time": 27,
-    "about": "Officia qui labore sit mollit aliqua exercitation eu dolor ex officia excepteur cupidatat. In eu esse in excepteur veniam non sit minim ipsum culpa. Labore est magna mollit est occaecat labore occaecat do anim in esse labore.\r\n"
+    "time": 35,
+    "about": "The push-up  is a common calisthenics exercise beginning from the prone position. By raising and lowering the body using the arms, push-ups exercise the pectoral muscles, triceps, and anterior deltoids, with ancillary benefits to the rest of the deltoids, serratus anterior, coracobrachialis and the midsection as a whole.Push-ups are a basic exercise used in civilian athletic training or physical education and commonly in military physical training. They are also a common form of punishment used in the military, school sport, and some martial arts disciplines."
   },
   {
     "id": "63348cb4656dbe9bde0be6f0",
-    "picture": "https://images.unsplash.com/photo-1661678730712-13b11a07ec5a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=630&q=80",
+    "picture": "https://images.unsplash.com/photo-1534787238916-9ba6764efd4f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1031&q=80",
     "age": 24,
-    "name": "walking",
+    "name": "Cycling",
     "gender": "female",
-    "time": 27,
-    "about": "Esse occaecat eiusmod eu labore irure lSunt aliquip cupidatat elit aliquip duis amet in aute incididunt culpa ex velit sit ut. Ad sunt et ullamco occaecat ."
+    "time": 25,
+    "about": "Cycling, also, when on a two-wheeled bicycle, called bicycling or biking, is the use of cycles for transport, recreation, exercise or sport. "
   },
   {
     "id": "63348cb4b3dd62ac9747ee9c",
-    "picture": "https://images.unsplash.com/photo-1661678730729-55e2856a8e76?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=527&q=80",
+    "picture": "https://images.unsplash.com/photo-1600965962102-9d260a71890d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
     "age": 21,
-    "name": "Cycling",
+    "name": "Swimming",
     "gender": "male",
-    "time": 25,
-    "about": "Aliquip nulla velit eu anim minim consequat deserunt. Minim dolore ipsum culpa laboris Lorem. Amet nisi officia nostrud in amet. Excepteur est consectetur nostrud aute qui eu velit ad sunt consequat et. "
+    "time": 50,
+    "about": "swimming, in recreation and sports, the propulsion of the body through water by combined arm and leg motions and the natural flotation of the body. Swimming as an exercise is popular as an all-around body developer and is particularly useful in therapy and as exercise for physically handicapped persons. "
   },
   {
     "id": "63348cb48e1cee432cacc89e",
-    "picture": "https://images.unsplash.com/photo-1658279798859-09ea4284cb35?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=562&q=80",
+    "picture": "https://images.unsplash.com/photo-1506880018603-83d5b814b5a6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
     "age": 20,
-    "name": "go",
+    "name": "Reading",
     "gender": "female",
-    "time": 22,
-    "about": "Amet nisi eu commodo minim sit nulla in qui id."
+    "time": 30,
+    "about": "Reading is the process of looking at a series of written symbols and getting meaning from them. When we read, we use our eyes to receive written symbols (letters, punctuation marks and spaces) and we use our brain to convert them into words, sentences and paragraphs that communicate something to us."
   },
   {
     "id": "63348cb45caa4d9d3434b45f",
-    "picture": "https://images.unsplash.com/photo-1592981004873-51d6ebadf5e1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80",
-    "age": 20,
-    "name": "Carole Petersen",
-    "gender": "female",
-    "time": 30,
-    "about": "Ut aute esse officia fugiat aute reprehenderit esse dolore ad adipisicing adipisicing aliquip. Cupidatat consectetur sint cillum do occaecat enim consequat veniam sint pariatur aliquip aliquip. "
+    "picture": "https://images.unsplash.com/photo-1637518026117-9d1ac5e73f07?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+    "age": 25,
+    "name": "Prayer",
+    "gender": "Prayer",
+    "time": 35,
+    "about": "Prayer is an invocation or act that seeks to activate a rapport with an object of worship through deliberate communication. In the narrow sense, the term refers to an act of supplication or intercession directed towards a deity or a deified ancestor.  "
   },
   {
     "id": "63348cb43686a01691510d6d",
-    "picture": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "picture": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
     "age": 24,
-    "name": "Nettie Roth",
+    "name": "Writting",
     "gender": "female",
-    "time": 25,
-    "about": "Excepteur laborum cupidatat esse laborum. Id laborum ad nisi consequat proident reprehenderit ut est reprehenderit voluptate. Ad esse esse Lorem exercitation reprehenderit sit ea et tempor ex. Incididunt velit aute aliquip magna ipsum proident. Duis excepteur laboris et sit exercitation do officia ullamco tempor. Aliqua Lorem magna elit aute culpa voluptate mollit "
+    "time": 55,
+    "about": "Writing may be defined as any conventional system of marks or signs that represents the utterances of a language. Writing renders language visible. Whereas speech is ephemeral, writing is concrete and, by comparison, permanent. Both speaking and writing depend upon the underlying structures of language. "
   },
   {
     "id": "63348cb41786fa3254453694",
-    "picture": "https://img.redbull.com/images/c_crop,x_0,y_216,h_2477,w_6193/c_fill,w_1680,h_700/q_auto,f_auto/redbullcom/2019/10/08/144a4d07-0163-471d-8d3b-35df1b13d2d5/benefits-swimming",
-    "age": 24,
-    "name": "Morris Sosa",
+    "picture": "https://images.unsplash.com/photo-1575089976121-8ed7b2a54265?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+    "age": 23,
+    "name": "Coding",
     "gender": "male",
-    "time": 20,
-    "about": "Laboris labore irure esse dolore do esse cupidatat proident do. Ut deserunt est eiusmod in consectetur duis occaecat enim. Minim veniam incididunt do aute ea labore pariatur irure incididunt culpa officia exercitation. "
+    "time": 50,
+    "about": "Coding, sometimes called computer programming, is how we communicate with computers. Code tells a computer what actions to take, and writing code is like creating a set of instructions. By learning to write code, you can tell computers what to do or how to behave in a much faster way. "
   },
   {
     "id": "63348cb41786fa3254453694",
-    "picture": "https://img.redbull.com/images/c_crop,x_0,y_216,h_2477,w_6193/c_fill,w_1680,h_700/q_auto,f_auto/redbullcom/2019/10/08/144a4d07-0163-471d-8d3b-35df1b13d2d5/benefits-swimming",
-    "age": 24,
-    "name": "Morris Sosa",
+    "picture": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=449&q=80",
+    "age": 18,
+    "name": "Playing",
     "gender": "male",
-    "time": 20,
-    "about": "Laboris labore irure esse dolore do esse cupidatat proident do. Ut deserunt est eiusmod in consectetur duis occaecat enim. Minim veniam incididunt do aute ea labore pariatur irure incididunt culpa officia exercitation. "
+    "time": 30,
+    "about": "Play is a range of intrinsically motivated activities done for recreational pleasure and enjoyment. Play is commonly associated with children and juvenile-level activities, but may be engaged in at any life stage, and among other higher-functioning animals as well, most notably mammals and birds.  "
   }
 ]

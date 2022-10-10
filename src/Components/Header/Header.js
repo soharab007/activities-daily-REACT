@@ -41,7 +41,7 @@ const Header = () => {
 
     return (
         <div>
-            {/* <div className="grid grid-flow-row-dense grid-cols-3 grid-rows-3 "> */}
+
 
             <div className="grid lg:grid-cols-3 ">
                 {/* this is the left side */}
@@ -52,12 +52,12 @@ const Header = () => {
                                 <FontAwesomeIcon className='text-3xl' icon={faEarth} />
                             </h1>
                             <h1 className='text-2xl font-bold text-blue-700'>
-                                Exercise Daily
+                                Activities Daily
                             </h1>
                         </a>
                     </div>
                     <div className='m-3 ml-8' >
-                        <h1 className='mt-1 text-2xl font-bold text-violet-500'>Select Daily Exercise.</h1>
+                        <h1 className='mt-1 text-2xl font-bold text-orange-500'>Select Daily Exercise.</h1>
                     </div>
                     <div className='m-3 ml-8 grid sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-2'>
                         {

@@ -15,7 +15,7 @@ const Main = ({ addToCart, person }) => {
 
                     <div className='p-3'>
                         <h3 className='text-salmon-700 text-2xl text-bold'><b></b>{name}</h3>
-                        <p><b> :</b> <small> {about.slice(0, 50) + '...'}. </small></p>
+                        <p><b> </b> <small> {about.slice(0, 50) + '...'}. </small></p>
                         <h1><b>For Age :</b> {age}</h1>
                         <h2><b>Time required :</b> {time}</h2>
                     </div>

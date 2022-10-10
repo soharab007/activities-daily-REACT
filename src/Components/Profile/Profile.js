@@ -40,8 +40,8 @@ const Profile = ({ selectedTime }) => {
                     <div className='flex p-8'>
                         <div className="avatar">
                             <div className="w-14 rounded-full  ring-primary  ring-offset-2">
-                                {/* <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fsportsfinding.com%2Fpsg-yearns-for-lucas-hernandez%2F157368%2F&psig=AOvVaw1LhSo13wSL7B1fP8m-Q_3t&ust=1665484573197000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCPDjnf2a1PoCFQAAAAAdAAAAABAF" alt="profile" /> */}
-                                <img src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8cHJvZmlsZSUyMHBpY3R1cmV8ZW58MHx8MHx8&auto=format&fit=crop&w=400&q=60" alt='profile' />
+
+                                <img src="https://images.unsplash.com/photo-1514543250559-83867827ecce?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=825&q=80" alt=" profile" />
                             </div>
 
                         </div>
