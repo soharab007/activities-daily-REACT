@@ -1,4 +1,4 @@
-// This is the Fake DB.
+
 const addToDb = id => {
 
     //
