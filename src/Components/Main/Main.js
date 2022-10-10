@@ -7,14 +7,14 @@ const Main = ({ addToCart, person }) => {
 
     return (
         <div>
-            <div className="border-2 border-black sm:mr-52  card mt-5 relative h-[400px] w-48  bg-white-500 shadow-xl">
+            <div className="border border-pink-600 sm:mr-52  card mt-5 relative h-[400px] w-48  bg-white-500 shadow-xl ">
                 <figure className="">
                     <img src={picture} alt="Shoes" className="rounded-xl h-40 w-60 " />
                 </figure>
-                <div>
+                <div className=''>
 
                     <div className='p-3'>
-                        <h3 className='text-salmon-700 text-2xl text-bold'><b></b>{name}</h3>
+                        <h2 className='text-salmon-700 text-2xl text-bold'><b></b>{name}</h2>
                         <p><b> </b> <small> {about.slice(0, 50) + '...'}. </small></p>
                         <h1><b>For Age :</b> {age}</h1>
                         <h2><b>Time required :</b> {time}</h2>
