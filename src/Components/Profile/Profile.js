@@ -74,7 +74,7 @@ const Profile = ({ selectedTime }) => {
                                 count.map(second =>
                                     <div
                                         key={second}
-                                        className='bg-orange-300 rounded-full'>
+                                        className='bg-blue-500 rounded-full'>
                                         <button onClick={() => handleSecond(second)}>{second}s</button>
                                     </div>
                                 )
